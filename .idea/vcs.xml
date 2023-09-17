@@ -7,6 +7,7 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../langchain" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/openai-quickstart-python" vcs="Git" />
   </component>
 </project>

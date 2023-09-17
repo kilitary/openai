@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="F:\langchain\docs\extras\integrations\document_loaders\example_data\fake_discord_data\package\messages\c105765859191975936\messages.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="F:\langchain\docs\extras\integrations\document_loaders\example_data\fake_discord_data\package\messages\c278566343836565505\messages.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="F:\langchain\docs\extras\integrations\document_loaders\example_data\fake_discord_data\package\messages\c279692806442844161\messages.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="F:\langchain\docs\extras\integrations\document_loaders\example_data\fake_discord_data\package\messages\c280973436971515906\messages.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="F:\langchain\docs\extras\integrations\document_loaders\example_data\mlb_teams_2012.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="F:\langchain\libs\langchain\tests\integration_tests\examples\stanley-cups.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="F:\langchain\libs\langchain\tests\unit_tests\document_loaders\test_docs\csv\test_empty.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="F:\langchain\libs\langchain\tests\unit_tests\document_loaders\test_docs\csv\test_nominal.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="F:\langchain\libs\langchain\tests\unit_tests\document_loaders\test_docs\csv\test_one_col.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="F:\langchain\libs\langchain\tests\unit_tests\document_loaders\test_docs\csv\test_one_row.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

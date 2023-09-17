@@ -7,7 +7,6 @@
       <entry key="PlantUMLLanguageExtension" value="false" />
     </enabledExtensions>
     <option name="fileGroupingEnabled" value="true" />
-    <option name="splitLayout" value="SHOW_PREVIEW" />
-    <option name="useCustomStylesheetText" value="true" />
+    <option name="showProblemsInCodeBlocks" value="false" />
   </component>
 </project>
